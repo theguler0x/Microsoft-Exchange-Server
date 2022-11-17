@@ -1,5 +1,5 @@
-# Microsoft-Exchange
-Exchange-Healty-Checker
+# Microsoft-Exchange Server Health Checker
+Exchange-Healty-Checker Notes.
 
 Exchange Server HealthChecker.ps1 scripti ile ortamınızda bulunan Exchange sunucular hakkında detaylı bilgi edinebilir, sunucularını üzerinde bulunan hataları kontrol edebilir, performans sorunlarına göz atabilirsiniz. Ayrıca Exchange sunucuların zorunlu olarak gerek duyduğu tüm güvenlik güncelleştirme yamalarınının (CVE-202x.xxx) sisteminizde yüklü olup olmadığı hakkında detaylı bilgi alabilirsiniz.
 
