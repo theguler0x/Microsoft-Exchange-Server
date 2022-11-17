@@ -1,0 +1,9 @@
+PS:
+C:\script\HealthChecker.ps1 -BuildHtmlServersReport -HtmlReportFile "C:\script\Exc-2019Report.html"
+
+Output File - Muhtemel Rapor Dosyaları:
+
+Output file written to: .\HealthChecker-EXC1-3551547545.txt
+Exported Data Object Written to: .\HealthChecker-EXC1-25236.xml
+Exported file path to: C:\script\Exc-2019Report.html
+
